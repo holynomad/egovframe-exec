@@ -8,5 +8,9 @@
 
 ## 레퍼런스
 
-- 도서 : [전자정보표준프레임워크 (채규태, 표선영 저)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791186710371)
+- 도서 : [전자정부표준프레임워크 (채규태, 표선영 저)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791186710371)
 - 유튜브 : [스프링 웹 MVC (뉴렉처)](https://www.youtube.com/watch?v=XtXHIDnzS9c&list=PLq8wAnVUcTFUHYMzoV2RoFoY2HDTKru3T) 
+
+## 요약
+
+- 
